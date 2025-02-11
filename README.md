@@ -1,6 +1,5 @@
 ### Copyright 2022 Toma-Ioan Dumitrescu
 
-
 ### Description
 
 Given a piece on a 8 x 8 board, the program will find the positions
